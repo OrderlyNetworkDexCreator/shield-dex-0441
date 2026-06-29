@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#f5ed0a",
   "VITE_SEO_KEYWORDS": "Shield DEX decentralized exchange secure crypto exchange non-custodial exchange DeFi trading platform crypto trading platform blockchain exchange secure DeFi exchange",
-  "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
+  "VITE_AVAILABLE_LANGUAGES": "en,ar,fa,he,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl,tc",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
